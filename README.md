@@ -69,11 +69,11 @@ Future extensions of this project could include:
 
 This project reflects my passion for using **data-driven methods to understand human behavior at work**. It became a key portfolio piece that showcased my technical and analytical skills, playing a major role in my graduate school admissions journey.
 
-> 🏛️ *Admitted to NYU’s M.A. in Industrial-Organizational Psychology program — ultimately chose to attend The George Washington University for the M.S. in Applied Psychology.*
+ *Admitted to NYU’s M.A. in Industrial-Organizational Psychology program — ultimately chose to attend The George Washington University for the M.S. in Applied Psychology.*
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Author:** Balkees Rekik
 **Email:** bk.rekik@gmail.com
